@@ -12,4 +12,4 @@ function writeText(){
 
 }
 // writeText() every 3 seconds (3000 milliseconds):
-setInterval(writeText, 100);
+setInterval(writeText, 300);
