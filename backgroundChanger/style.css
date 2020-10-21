@@ -20,3 +20,12 @@ button{
     border-radius: 5px;
     border:none;
 }
+button:focus{
+    /* opacity: 50%; */
+    background-color: white;
+}
+
+button:active{
+    background-color: skyblue;
+    transform: translate(2px, 2px);
+}
