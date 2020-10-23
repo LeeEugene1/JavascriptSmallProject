@@ -19,6 +19,7 @@ button{
     box-shadow: 2px 2px 6px rgba((0), 0, 0, 0.2);
     border-radius: 5px;
     border:none;
+    transition: transform 0.1s linear;
 }
 button:focus{
     /* opacity: 50%; */
